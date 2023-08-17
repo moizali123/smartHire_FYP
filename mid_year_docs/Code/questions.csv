@@ -1,0 +1,34 @@
+question,answer1,answer2,,,
+What is a microprocessor?,A microprocessor is an integrated circuit having all the functionality of a central processing unit of a PC.,"A microprocessor is a computer processor where the data processing logic and control is included on a single integrated circuit, or a small number of integrated circuits","The microprocessor contains the arithmetic, logic, and control circuitry required to perform the functions of a computer's central processing unit",,
+What is a Super class?,A super class is the basis of all the classes. The object of the rest of the class has all the characteristics related to the superclass.,The class from which the subclass is derived is called a superclass (also a base class or a parent class).,,a class from which other classes inherit code is called a superclass,"A superclass exists in a hierarchical relationship with its subclasses. When classes participate in inheritance relationships, they become ""affiliated"" with other classes."
+What is SDLC?,"SDLC stands for Software Development Life Cycle is a process that produces quality software products in less time. The stages involve by SDLC are: 1) planning, 2) design, 4) construction, 5) testing, and 6) deployment.",SDLC is a framework defining tasks performed at each step in the software development process.,"SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.",,
+what are its setps?,"Requirement analysis, In-depth planning, Product design, Coding, Testing, Deployment, Post-production maintenance.",,,,
+How do you identify bugs in a code?,Use different software to find bugs in the source code. ,"Check Your Syntax, Check debug messages in real time, Problem localization, Git bisect,",,,
+What is an array?,An array is a container that keeps a specific number of similar data types.,,,,
+What is artificial intelligence?,Artificial Intelligence or machine intelligence is a common term that is used to build smart machines capable of performing tasks. The main aim of AI is to solve problems in a way that are better and faster.,,,,
+List out different principles of OOP,"The basic OOPS principle are: 1) encapsulation, 2) abstraction, 3) inheritance and 4) polymorphism.",,,,
+Can you name any three data structures?,"Trees , Stacks, Queues",,,,
+What are some applications of Data structures?,"Numerical analysis , AI , System design etc",,,,
+What operating systems do you prefer to work in and why?,Any scenario based answer,,,,
+"If you had to choose, what are your top two programming languages and what do you like about them?","My favorites might be Ruby and JavaScript. Ruby for how quickly it 
+evolves and improves, which provides more learning opportunities, and 
+JavaScript for how forgiving it is.",,,,
+How frequently do you find yourself coding on a daily and weekly basis?,"I code daily for both work and my personal project. My last project for 
+work was to build a website, and for personal use I’m currently 
+designing a video game.",,,,
+What do you think is most important when it comes to double checking yours or a colleague’s programming work?,,,,,
+How do you avoid making mistakes in your code?,"I use technology that helps me avoid errors, such as object-oriented 
+programming languages. I also make sure my code can function effectively
+ in different error situations by testing it before deployment with 
+testing frameworks like Spring. I avoid repeating mistakes by using a 
+log to document my coding errors and checking it frequently.",,,,
+Process of inserting an element in stack is called,Push,,,,
+"In a stack, if a user tries to remove an element from an empty stack it is called",Underflow,,,,
+Which feature of OOP indicates code reusability?,Inheritance,,,,
+Which header file is required in C++ to use OOP?,OOP can be used without using any header file,no header file is used,,,
+"Which feature of OOP is indicated by the following code?class student{  int marks;  };
+class topper:public student{  int age;  topper(int age){ this.age=age; } };",Encapsulation and Inheritance,,,,
+The feature by which one object can interact with another object is,Message Passing,,,,
+,,,,,
+,,,,,
+https://medium.com/mlearning-ai/basic-steps-in-natural-language-processing-pipeline-763cd299dd99,,,,,
